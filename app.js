@@ -1,1 +1,1 @@
-alert("why do you do that!");
+alert("Click here!");
